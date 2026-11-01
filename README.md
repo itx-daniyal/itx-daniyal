@@ -2,7 +2,7 @@
   DANIYAL HAIDER | 4-YEAR DEVELOPER JOURNEY
   Replace profile-banner.png with your custom banner.
 --><p align="center">
-  <img src="./profile-banner.png" width="100%" alt="Daniyal Haider Developer Banner"/>
+  <img src="./profile-banner.png.jpg" width="100%" alt="Daniyal Haider Developer Banner"/>
 </p><h1 align="center">Hey, I'm Daniyal Haider 👋</h1><h3 align="center">Computer Science Student | Aspiring Software Engineer</h3><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Evolve.;Exploring+Computer+Science+%F0%9F%92%BB;Turning+Ideas+Into+Projects+%F0%9F%9A%80;A+Four-Year+Journey+Of+Growth+%F0%9F%92%99" alt="Typing introduction"/>
 </p>---
